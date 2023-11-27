@@ -2,8 +2,7 @@
 
 ![](https://velog.velcdn.com/images/ximya_hf/post/2bfbe6c3-bff8-43b1-b086-992d0123ce8e/image.png)
 
-An implementation that defines data states using a generic class and returns widgets based on the current state
-About
+An implementation that defines data states using a generic class and returns widgets based on the current state.
 
 
 
